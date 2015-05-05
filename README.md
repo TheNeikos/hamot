@@ -1,0 +1,2 @@
+# hamot
+Haskell Money Tracker
